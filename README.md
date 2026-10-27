@@ -46,9 +46,9 @@ aegis-guard/
 Coming soon.
 
 ## Team
-- Khushi: ML aur research
-- Pharm D partner: medicine domain expert
-- B.Tech partner: engineering (pipeline, API, dashboard)
+- B.Tech Person : engineering (pipeline, API, dashboard)
+- Pharm D Person: medicine domain expert
+
 
 ## Status
 Month 1: Setup + tools (in progress)
